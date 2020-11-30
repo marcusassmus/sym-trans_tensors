@@ -7,4 +7,4 @@ Marcus Aßmus (<a href="https://www.ifme.ovgu.de/ltm" target="_blank">Website</a
 
 
 # License
-See file LICENSE
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) Please see file LICENSE.
