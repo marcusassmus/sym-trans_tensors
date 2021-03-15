@@ -5,7 +5,7 @@ On the reduction of the independent components of an tensor of arbitrary order b
 
 The current repository contains supplementary material for the manuscript
 
-[1] "**_A systematic approach to reduce the independent tensor components by symmetry transformations - A commented translation of “Tensors and Crystal Symmetry” by Carl Hermann_**" 
+[1] "**_A systematic approach to reduce the independent tensor components by symmetry transformations - A commented translation of “Tensors and Crystal Symmetry” by Carl Hermann_**" [DOI: 10.1007/s00161-021-00978-5](https://doi.org/10.1007/s00161-021-00978-5)
 
 	
 published in the Journal _Continuum Mechanics and Thermodynamics_. The scripts have been written in Mathematica. 
