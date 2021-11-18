@@ -24,9 +24,9 @@ When refering to the script in publications please cite as follows:
   title = {{A systematic approach to reduce the independent tensor components by symmetry transformations - A commented translation of “Tensors and Crystal Symmetry” by Carl Hermann}},
   journal = {Continuum Mechanics and Thermodynamics},
   volume = {33},
-  number = {x},
+  number = {4},
   year = {2021},
-  pages = {xxx--xxx},
+  pages = {1603--1620},
   doi = {10.1007/s00161-021-00978-5}
 }
 ```
