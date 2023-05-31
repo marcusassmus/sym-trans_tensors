@@ -11,8 +11,8 @@ The current repository contains supplementary material for the manuscript
 published in the Journal _Continuum Mechanics and Thermodynamics_. The scripts have been written in Mathematica. Please also see the [Mathematica Notebook Archive](https://notebookarchive.org/2021-04-8s4wanh/) for this supplementary material.
 
 ## Contributors
-Rainer Glüge (<a href="https://www.uni-bremen.de/mechanik" target="_blank">Website</a>, <a href="https://scholar.google.de/citations?hl=de&user=S-ZIGZgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>)  
-Marcus Aßmus (<a href="https://www.ifme.ovgu.de/ltm" target="_blank">Website</a>, <a href="https://scholar.google.de/citations?hl=de&user=uZQ4QIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>)
+Rainer Glüge (<a href="https://www.uni-bremen.de/mechanik" target="_blank">Website</a>, <a href="https://scholar.google.de/citations?hl=de&user=S-ZIGZgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>, <a href="https://github.com/Ra-Na" target="_blank">GitHub</a>)  
+Marcus Aßmus (<a href="https://www.ifme.ovgu.de/ltm" target="_blank">Website</a>, <a href="https://scholar.google.de/citations?hl=de&user=uZQ4QIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>, <a href="https://github.com/marcusassmus" target="_blank">GitHub</a>)
 
 ## Referencing
 
