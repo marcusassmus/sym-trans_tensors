@@ -1,0 +1,8 @@
+title: Software
+author: Marcus Aßmus & Rainer Glüge
+description: reduction of independent components of tensors by symmetry transformations
+logo: logo.png
+show_downloads: true
+theme: jekyll-theme-minimal
+baseurl: "/sym-trans_tensors"
+url: "https://marcusassmus.github.io"
