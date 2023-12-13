@@ -25,7 +25,7 @@ When refering to the script in publications please cite as follows:
 ```
 @article{glas2021,
   author = {R. Gl{\"u}ge and M. A{\ss}mus},
-  title = {{A systematic approach to reduce the independent tensor components by symmetry transformations - A commented translation of “Tensors and Crystal Symmetry” by Carl Hermann}},
+  title = {A systematic approach to reduce the independent tensor components by symmetry transformations - A commented translation of “Tensors and Crystal Symmetry” by Carl Hermann},
   journal = {Continuum Mechanics and Thermodynamics},
   volume = {33},
   number = {4},
