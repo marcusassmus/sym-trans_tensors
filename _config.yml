@@ -1,8 +1,12 @@
 title: Software
 author: Marcus Aßmus & Rainer Glüge
-description: reduction of independent components of tensors by symmetry transformations
+description: Mathematica scripts for the reduction of independent components of tensors by symmetry transformations
+keywords: tensor symmetry reduction, independent tensor components, crystal symmetry, Carl Hermann, Mathematica, continuum mechanics, anisotropy
 logo: logo.png
 show_downloads: true
 theme: jekyll-theme-minimal
 baseurl: "/sym-trans_tensors"
 url: "https://marcusassmus.github.io"
+
+plugins:
+  - jekyll-seo-tag
